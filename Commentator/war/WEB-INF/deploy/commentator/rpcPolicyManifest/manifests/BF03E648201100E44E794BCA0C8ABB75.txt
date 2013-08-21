@@ -1,0 +1,2 @@
+serviceClass: com.appspot.commentator.client.controller.MainService
+path: BBBA420D640F5761C568258C03A43CF2.gwt.rpc

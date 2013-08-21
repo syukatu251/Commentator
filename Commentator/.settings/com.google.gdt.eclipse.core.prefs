@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+jarsExcludedFromWebInfLib=C\:/Users/lliquid/Documents/pleiades/eclipse/plugins/jsoup-1.7.2.jar
+warSrcDir=war
+warSrcDirIsOutput=true
